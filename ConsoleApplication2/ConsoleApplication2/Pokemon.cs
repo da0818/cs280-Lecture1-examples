@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2
 {
-    internal class Program
+    class Pokemon
     {
-        private static void Main(string[] args)
-        {
-            MessageBox.Show"^_______^";
-        }
     }
 }

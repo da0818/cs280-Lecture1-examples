@@ -16,5 +16,9 @@ namespace CSSharp280_Project_Examples
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        }
     }
 }

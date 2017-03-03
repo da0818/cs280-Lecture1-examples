@@ -1,1 +1,9 @@
 D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\bin\Debug\CSSharp280-Project-Examples.exe.config
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\bin\Debug\CSSharp280-Project-Examples.exe
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\bin\Debug\CSSharp280-Project-Examples.pdb
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\obj\Debug\CSSharp280-Project-Examples.csprojResolveAssemblyReference.cache
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\obj\Debug\CSSharp280_Project_Examples.Properties.Resources.resources
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\obj\Debug\CSSharp280-Project-Examples.csproj.GenerateResource.Cache
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\obj\Debug\CSSharp280-Project-Examples.exe
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\obj\Debug\CSSharp280-Project-Examples.pdb
+D:\CSHARP-Projects-Examples\CSSharp280-Project-Examples\CSSharp280-Project-Examples\obj\Debug\CSSharp280_Project_Examples.Form1.resources
